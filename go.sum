@@ -1,3 +1,5 @@
+github.com/ccmonky/sqlx v0.2.0 h1:+GzrbX/nREX1MA/jKd7nwWXNGNeRiPkAczjFiIoC7J4=
+github.com/ccmonky/sqlx v0.2.0/go.mod h1:sr+ijh4o6DcpMLPFiQaHC4CgZStav7dQkbMLl20KNbQ=
 github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
 github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
